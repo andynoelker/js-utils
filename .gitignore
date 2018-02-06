@@ -1,0 +1,16 @@
+.nyc_output
+npm-debug.log
+node_modules
+coverage
+dist
+lib
+es
+
+# Vim temporary files
+*~
+*.swp
+*.swo
+.*.sw*
+
+# Sublime Files
+*.sublime-workspace
